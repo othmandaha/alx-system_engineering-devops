@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# A script that diplay the pid of bash processes along with the name
+
+pgrep bash -l
